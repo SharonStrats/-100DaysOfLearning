@@ -1,3 +1,4 @@
+
 # -100DaysOfLearning
 Learning to code, 2 hours a day for 100 days.  This is the "other" stuff like listening to videos and reading, etc.
 
@@ -16,6 +17,8 @@ Learning to code, 2 hours a day for 100 days.  This is the "other" stuff like li
 ## Goals
 
 **Complete Chingu Challenge**
+
+**Complete FreeCodeCamp Front End Certification**
 
 **Learn Git well**
 
