@@ -1,13 +1,12 @@
-
 ## 100 Days Of Learning - Log
 For 100 days I'm going to commit do listening to learning material for 2 hours each day, while doing the Stationary Bike.
 ### Day 4: June 14, 2017 Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Completed Section 5 and started Section 6 only to find that this wasn't the bootcamp.  I thought that the other day, but I couldn't find the correct one.  Anyway.  this was a good class, will definitely still come back to it.  Now doing the proper one.  Complete Java SE 8 Bootcamp (also on Udemy).  
 
 **Thoughts**:
 
-**Hours 2.0**
+**Hours 2.0** Still working, will do more later
 
 
 ### Day 3: June 13, 2017 Tuesday
