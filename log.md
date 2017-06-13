@@ -1,6 +1,14 @@
 
 ## 100 Days Of Learning - Log
 For 100 days I'm going to commit do listening to learning material for 2 hours each day, while doing the Stationary Bike.
+### Day 4: June 14, 2017 Wednesday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Hours 2.0**
+
 
 ### Day 3: June 13, 2017 Tuesday
 
