@@ -8,7 +8,7 @@ For 100 days I'm going to commit do listening to learning material for 2 hours e
 
 **Hours 3.0**
 
-** Got sidetracked in here, instead of starting completely over going to keep going until I reach 100 Days even if I miss a few days in between**
+**Got sidetracked in here, instead of starting completely over going to keep going until I reach 100 Days even if I miss a few days in between**
 
 ### Day 4: June 14, 2017 Wednesday
 
