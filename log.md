@@ -1,5 +1,22 @@
 ## 100 Days Of Learning - Log
 For 100 days I'm going to commit do listening to learning material for 2 hours each day, while doing the Stationary Bike.
+
+### Day 7: July 5, 2017 Monday
+
+**Today's Progress**: Spent at least a couple hours working on AWS SysOps certification.  Listening to videos about VPC and then beginning to read the security WhitePaper.  After that I realised I have to do some actual coding.  I worked for a couple hours and mananged to get the google geocode working and the city displaying on my screen.
+
+**Thoughts**: Still having two issues.  I just happened to see where my city was and was able to grab it that way.  I need to search for political, locality..  and then pick those array items.  I also ran into a problem with CORS.  I still don't think I fully understand how to get around this.  I need to research further.  And still need to get quotes working.
+
+**Hours 4.0**
+
+### Day 6: July 4, 2017 Monday
+
+**Today's Progress**: Didn't have as much time today because of Alexia's movie day.  Did manage to get to the FreeCodeCamp meetup finally.  It was great!  I worked on getting the weather and the quotes from Intermediate Projects.  I got closer with both.  Was able to display the weather.  Still having trouble with CORS on the quotes and also "key" issue with google for reverse geocodes.
+
+**Thoughts:** So happy I went to the meetup.  Been trying to get there.  Almost didn't go again as well, but at the end made it happen.
+
+**Hours 2.0**
+
 ### Day 5: July 3, 2017 Monday
 
 **Today's Progress**: Listened to AWS SysOps Lectures on Route53 for an hour while doing the stationary bike.  Then started on FCC Speedrun adding local weather to my personal website.  I was able to get the latitude and longitude and also the weather using Dark Sky API.  I wanted to show the city name, however, and I had some issues.  Many I resolved like I realised I needed an API_KEY and a few other things.  It ended without the API_KEY working for some reason.  I will look again tomorrow.  I also had an idea about YFI website.  Currently the .css file isn't being used when it is deployed to AWS ElasticBeanstalk.  I had another idea of putting it in the head under <style> and seeing if this resolves the issue (although not ideal).  I have a question on the forum that no one has answered in 5 days.  
