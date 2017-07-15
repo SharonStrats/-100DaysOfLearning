@@ -9,7 +9,7 @@ For 100 days I'm going to commit do listening to learning material for 2 hours e
 
 **Hours at least 4**
 
-**Did lots in between here, but just didn't log.  I worked on www.sharonstratsianis.com and even got it running.  Added the weather to it.  Took an all day workshop on CI/CD.  Used TravisCI, learned a lot.  My goal is to just keep tracking until I get to 100 days, even if I miss tracking in between.  Also, haven't been too good about stationary bike, but will start that up again tomorrow.
+**Did lots in between here, but just didn't log.  I worked on www.sharonstratsianis.com and even got it running.  Added the weather to it.  Took an all day workshop on CI/CD.  Used TravisCI, learned a lot.  My goal is to just keep tracking until I get to 100 days, even if I miss tracking in between.  Also, haven't been too good about stationary bike, but will start that up again tomorrow.**
 
 ### Day 7: July 5, 2017 Monday
 
