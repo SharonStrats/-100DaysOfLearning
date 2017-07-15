@@ -1,6 +1,16 @@
 ## 100 Days Of Learning - Log
 For 100 days I'm going to commit do listening to learning material for 2 hours each day, while doing the Stationary Bike.
 
+### Day 8: July 15, 2017 Saturday
+
+**Today's Progress:**  Spent time listening to Colt Steeles Web Development course, got to Section 5.  Also, listen to the JAVA OCA cert course.  Tackled Twitch and Wikipedia from FCC.  Laid out on a Trello board what I will accomplish in the next 50 days so far.  Need to keep going with that.  Didn't complete it yet.
+
+**Thoughts:**  Same thing..  need to look into CORS further.  I think I understand, but I'm not able to always resolve the issues.  I did get the city to work from my thoughts a few weeks ago.
+
+**Hours at least 4**
+
+**Did lots in between here, but just didn't log.  I worked on www.sharonstratsianis.com and even got it running.  Added the weather to it.  Took an all day workshop on CI/CD.  Used TravisCI, learned a lot.  My goal is to just keep tracking until I get to 100 days, even if I miss tracking in between.  Also, haven't been too good about stationary bike, but will start that up again tomorrow.
+
 ### Day 7: July 5, 2017 Monday
 
 **Today's Progress**: Spent at least a couple hours working on AWS SysOps certification.  Listening to videos about VPC and then beginning to read the security WhitePaper.  After that I realised I have to do some actual coding.  I worked for a couple hours and mananged to get the google geocode working and the city displaying on my screen.
