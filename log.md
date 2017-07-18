@@ -1,18 +1,24 @@
 ## 100 Days Of Learning - Log
 For 100 days I'm going to commit do listening to learning material for 2 hours each day, while doing the Stationary Bike.
 
-### Day 9: July 17, 2017 Monday
-
+### Day 10: July 19, 2017 Wednesday
 **Today's Progress:**
+**Thoughts:**
+**Hours**
+
+### Day 9: July 18, 2017 Tuesday
+
+**Today's Progress:**  More Colt Steele - mostly review, but learning a few things here and there.  Good to just put it all together once again.  Also React Stephen Grider, making my way through that.  I realize coming from structured programming experience I prefer React and Angular and those types of frameworks and Javascript.  It makes more sense to me.  
 
 **Thoughts:**
 
-**Hours **
+**Hours 2 **
 
 ### Day 9: July 16, 2017 Sunday
-**Today's Progress:**
+**Today's Progress:**  I did more of Colt Steele and some React.  I'm writing after the fact so I will just add it up and write what I'm up to next time.  I also finished reading chapter 2 of this and Prototype, but want to go over it one more time.
+
 **Thoughts:**
-**Hours **
+**Hours 2 **
 
 
 ### Day 8: July 15, 2017 Saturday
