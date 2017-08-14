@@ -1,10 +1,14 @@
 ## 100 Days Of Learning - Log
 For 100 days I'm going to commit do listening to learning material for 2 hours each day, while doing the Stationary Bike.
 
-### Day 10: July 19, 2017 Wednesday
-**Today's Progress:**
-**Thoughts:**
-**Hours**
+### Day 10: August 14, 2017 Monday
+**Today's Progress:**  Worked on Jobbatical Clone started adding React stuff and also adding a seed api to get data into the database.  Also had to listen to two different lectures one for Algorithms and one for Database.  I'm really behind on Databases..
+
+**Thoughts:**  It was a pretty good day afterall.  I also finished the Modern React & Redux by Stephen Grider, all except the Rally Coding.  Using that to do the Jobbatical Clone.
+
+**Hours 4**
+
+**Stopped logging, but have done things**
 
 ### Day 9: July 18, 2017 Tuesday
 
